@@ -2,3 +2,7 @@
 172.18.0.1 - - [09/Mar/2020:11:30:18 +0000] "GET / HTTP/1.1" 404 555 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
 172.18.0.1 - - [09/Mar/2020:13:28:49 +0000] "GET / HTTP/1.1" 404 82137 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
 172.18.0.1 - - [09/Mar/2020:13:28:49 +0000] "GET /_wdt/f10b4b HTTP/1.1" 200 15157 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
+172.18.0.1 - - [09/Mar/2020:13:34:21 +0000] "GET /homehome HTTP/1.1" 404 248323 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
+172.18.0.1 - - [09/Mar/2020:13:34:21 +0000] "GET /_wdt/5ddb95 HTTP/1.1" 200 17287 "http://localhost/homehome" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
+172.18.0.1 - - [09/Mar/2020:13:34:23 +0000] "GET /home HTTP/1.1" 200 51153 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
+172.18.0.1 - - [09/Mar/2020:13:34:23 +0000] "GET /_wdt/630bf2 HTTP/1.1" 200 17462 "http://localhost/home" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
