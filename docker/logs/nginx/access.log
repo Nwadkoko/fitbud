@@ -18,3 +18,5 @@
 172.18.0.1 - - [11/Mar/2020:17:21:08 +0000] "GET /home HTTP/1.1" 200 51160 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
 172.18.0.1 - - [11/Mar/2020:17:21:08 +0000] "GET /_wdt/4767ca HTTP/1.1" 200 17464 "http://localhost/home" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
 172.18.0.1 - - [11/Mar/2020:17:21:08 +0000] "GET /favicon.ico HTTP/1.1" 404 248574 "http://localhost/home" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
+172.18.0.1 - - [11/Mar/2020:17:26:22 +0000] "GET /home HTTP/1.1" 200 51161 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
+172.18.0.1 - - [11/Mar/2020:17:26:23 +0000] "GET /_wdt/d7df0e HTTP/1.1" 200 17477 "http://localhost/home" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
