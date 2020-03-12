@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "dbfitbud",
+            "dialect": "MariaDB",
+            "name": "db",
+            "password": "dbpwd",
+            "port": 3306,
+            "server": "localhost",
+            "username": "dbuser"
+        }
+    ]
+}
